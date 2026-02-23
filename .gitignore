@@ -1,0 +1,47 @@
+# Node
+node_modules/
+
+# Package managers
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build outputs
+/dist/
+/build/
+/out/
+
+# Bundler caches
+.cache/
+.parcel-cache/
+.rollup.cache
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+.nyc_output/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+._*
+
+# Temp, swap
+tmp/
+temp/
+*.swp
+*.swo
+*~
