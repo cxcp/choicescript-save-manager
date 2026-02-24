@@ -1,8 +1,5 @@
 # ChoiceScript Save Manager
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-
 Adds a multi-slot save/load system to ChoiceScript games with quick saves and portable backups.
 
 ChoiceScript titles normally rely on autosave and do not provide manual save slots.  
@@ -32,8 +29,8 @@ This userscript injects a minimal-overhead, in-browser save manager that allows 
    - Greasemonkey
 
 2. Install the script:
-   - **GreasyFork:** *(link after publish)*
-   - or **Direct (GitHub):** https://raw.githubusercontent.com/cxcp/choicescript-save-manager/main/choicescript-save-manager.user.js
+   - **GreasyFork:** https://greasyfork.org/en/scripts/567296-choicescript-save-manager
+   - **Direct (GitHub):** https://raw.githubusercontent.com/cxcp/choicescript-save-manager/main/choicescript-save-manager.user.js
 
 ---
 
