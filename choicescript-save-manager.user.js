@@ -38,6 +38,10 @@
  * Copyright (c) 2026 cxcp
  * Licensed under the MIT License. See LICENSE file or https://opensource.org/licenses/MIT
  *
+ * Uses LZ-String 1.5.0 by Pieroxy (MIT)
+ * https://github.com/pieroxy/lz-string
+ * Loaded via jsDelivr CDN
+ * 
  * Inspired by the prior work of the ChoiceScript community:
  * ChoiceScriptSavePlugin by CJW (ChoiceScriptIDE):
  * https://github.com/ChoicescriptIDE/ChoiceScriptSavePlugin

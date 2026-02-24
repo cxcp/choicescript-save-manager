@@ -18,7 +18,7 @@ This userscript injects a minimal-overhead, in-browser save manager that allows 
 - Import / export save backups (JSON)
 - Per-game save isolation
 - Local browser storage (IndexedDB)
-- Optional compression (enabled by default)
+- Optional compression using LZ-String (enabled by default)
 - Minimal-overhead UI overlay
 - Compatible with official and hosted ChoiceScript games
 
@@ -95,6 +95,9 @@ Copyright (c) 2026 cxcp
 ---
 
 ## Acknowledgments
+
+Uses LZ-String (Pieroxy) for optional compression loaded via jsDelivr CDN
+- https://github.com/pieroxy/lz-string
 
 Inspired by earlier community save plugins:
 
